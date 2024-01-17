@@ -1,7 +1,9 @@
+Wifi password : burgerkeju
+
 What you'll need :
 
 
--ESP8266
+-ESP8266 (IP address is : 192.168.4.1)
 
 -Relay module
 
