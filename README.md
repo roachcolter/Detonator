@@ -17,3 +17,6 @@ What you'll need :
 
 -Switch on/off (optional)
 
+*SCHEMATICS :*
+
+![Untitled](https://github.com/roachcolter/Detonator/assets/156453826/37b6e2bd-c659-421b-966d-19068468097b)
